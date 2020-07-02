@@ -8,3 +8,4 @@
 Kernel \r on an \m
 ```
 >修改后:
+![avatar](https://github.com/Ricechips/2020.7/blob/master/IMG_4702.JPG)
